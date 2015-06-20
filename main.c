@@ -172,7 +172,7 @@ int main (void)
 				puts ("Output Done!");
 			}
 			break;
-			/*保存bmp*/
+			/*Save bmp*/
 			case 'd' :
 			fputs ("Please input The save file path(If file exists,Will cover files\n(Example: /sdcard/picture.bmp):",stdout);
 	chargets (bmp.filename,NAMEMAX-1,stdin);
