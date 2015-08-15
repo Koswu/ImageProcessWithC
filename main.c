@@ -1,7 +1,7 @@
 /* 
 ImageProcessWithC 
 Copyright (C) 2015 KosWu
-KosWu's Blog: http://koswu.com
+KosWu's Blog: http://blog.koswu.com
 Email :ws00298046@163.com
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -504,4 +504,4 @@ char * chargets (char *buf,int bufsize,FILE * steam)
 		}
 	}
 	return ch;
-}  
+}
